@@ -1,0 +1,25 @@
+Dashboard:
+	-> Zeiten aufzeichnen
+	-> Zeiten nachtragen
+	-> Projekte
+	-> Kalender
+	
+	
+	Projekt
+		--> Zeit
+		--> Termine
+		--> Kunde
+		--> Tasks
+		
+	Kunde
+		--> Name
+		--> Surname
+		--> CompanyName
+		--> E-Mail
+		--> Phone
+		--> Website
+		--> Twitter
+		--> Facebook
+		--> Tags
+		--> Photo
+		*** Projekt

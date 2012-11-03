@@ -1,0 +1,9 @@
+@CHARSET "ISO-8859-1";
+
+#cyq_dashboard
+{
+	margin:0 auto;
+	width: 900px;
+	height: 600px;
+	background-color:#CECECE;
+}
